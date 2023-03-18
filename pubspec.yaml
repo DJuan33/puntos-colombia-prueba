@@ -1,0 +1,44 @@
+name: puntos_colombia_prueba
+description: Solución al reto técnico para aplicar al puesto de desarrollador móvil en Puntos Colombia.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  beamer: ^1.5.3
+  bloc: ^8.1.1
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_svg: ^2.0.4
+  freezed: ^2.3.2
+  freezed_annotation: ^2.2.0
+  http: ^0.13.5
+  json_annotation: ^4.8.0
+  kiwi: ^4.1.0
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.6.1
+  kiwi_generator: ^4.1.0
+  very_good_analysis: ^4.0.0+1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/fonts/
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito-Regular.ttf
+        - asset: assets/fonts/Nunito-Bold.ttf
+          weight: 700
