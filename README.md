@@ -7,7 +7,7 @@ lang: es
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Solución al reto técnico para aplicar al puesto de desarrollador móvil en Puntos Colombia. La aplicación es *responsive* y se probó en plataforma Web, Android y Linux. Un archivo APK de prueba se encuentra en la carpeta `releases/`.
+Solución al reto técnico para aplicar al puesto de desarrollador móvil en Puntos Colombia. La aplicación es *responsive* y se probó en plataforma Web, Android y Linux. Un archivo APK de prueba y el código exportado para la plataforma web se encuentran en la carpeta `releases/`.
 
 
 ## Instrucciones de instalación
